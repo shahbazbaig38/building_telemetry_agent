@@ -1,0 +1,2 @@
+CREATE TABLE telemetry("timestamp" TIMESTAMP, electricity_consumption DOUBLE, district_heating DOUBLE, people_counter DOUBLE, indoor_average_temperature DOUBLE, indoor_average_humidity DOUBLE, indoor_co2 DOUBLE, outside_temperature DOUBLE, outside_humidity DOUBLE, outside_pressure DOUBLE, outside_wind_speed DOUBLE, outside_wind_direction DOUBLE, outside_precipitation DOUBLE, outside_solar_radiation DOUBLE, outside_cloud_cover DOUBLE, snow_depth DOUBLE);;
+
